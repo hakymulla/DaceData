@@ -1,0 +1,13 @@
+node_modules/
+package-lock.json
+.env
+Contract/.env
+Contract/node_modules
+Contract/coverage
+Contract/coverage.json
+Contract/typechain
+Contract/typechain-types
+
+#Hardhat files
+Contract/cache
+Contract/artifacts
