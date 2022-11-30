@@ -39,6 +39,8 @@ Users are able to store data in a decentralised fashion, this data is encrpypted
     - Dace.sol
         - Allows users to Add and Delete Ethereum Addresses that can have access to data (Access Control Condition based on Smart Contract)
         - Stores the Encrypted Symmetric Key of each CID.
+    
+    Contract Address on Polygon - 0x46de762fe5A3bbC73918B8c3cFe466d18Dd58903
 
 3. Data
     - Dummy datas for testing.
