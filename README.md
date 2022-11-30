@@ -7,18 +7,18 @@ DACEdata also know as Decentralised Access Control Encrypted data is a platform 
     3. Decrypt locked data based on the given on chain condition.
 
 
-## The tech stack of your dApp
+## 💻 Tech Stack
 - IPFS
 - Lit Protocol
 - Sign in With Ethereum (SIWE)
 
 
-## Description 
+##  Description 
 
 Users are able to store data in a decentralised fashion, this data is encrpypted and can only be accessed by authorised party. This data includes content like json, images etc. Giving access is as easy as adding an address by interacting with the smart contract.
 
 
-## Structure
+## 🧭 Structure
 
 1. Backend
     - utils.js contains utilities functions
@@ -43,5 +43,5 @@ Users are able to store data in a decentralised fashion, this data is encrpypted
 3. Data
     - Dummy datas for testing.
 
-## Demo
+## 📹 Demo
 https://youtu.be/gyZMG-PGp3c
