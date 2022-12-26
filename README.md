@@ -8,6 +8,7 @@ DACEdata also know as Decentralised Access Control Encrypted data is a platform 
 
 
 ## 💻 Tech Stack
+- Solidity
 - IPFS
 - Lit Protocol
 - Sign in With Ethereum (SIWE)
